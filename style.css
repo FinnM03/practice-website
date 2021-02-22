@@ -1,0 +1,264 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    width: 99%;
+    height: 1000px;
+	position: relative;
+    border: 5px solid rgb(0, 0, 0);
+    float: left;
+    padding: 0mm;
+}
+.header{
+    width: 100%;
+    background-color:#333;
+    float: left;
+ } 
+.header  h1{
+	color: rgb(255, 255, 255);
+	font-family: Rockwell;
+	text-align: center;
+}
+.contentl{
+    width: 35.07%;
+	height: 42%;
+    background-color:rgb(255, 255, 255);
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    border:2px solid black;
+ } 
+ .contentm{
+    width: 35.07%;
+	height: 42%;
+    background-color:rgb(255, 255, 255);
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    border:2px solid black;
+ } 
+ .footer{
+    width: 100%;
+	height: 17%;
+    background-color:rgb(255, 255, 255);
+    float: left;
+ } 
+.banner{
+    width: 70%;
+    height: 28%;
+    background-color:rgb(255, 255, 255);
+    float: left;
+    font-family: sans-serif;
+    text-align: center;
+    border:2px solid black;
+}
+.banner2 {
+    width: 29.75%;
+    height: 28.35%;
+    background-color: rgb(255, 255, 255);
+    float: right;
+}
+.ps5stock {
+    width: 14.5%;
+    height: 42%;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    font-size: large;
+    font-size: medium;
+    border:2px solid black;
+}
+.xboxstock {
+    width: 14.5%;
+    height: 42%;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    float: right;
+    font-size: large;
+    font-size: medium;
+    border:2px solid black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(42, 42, 42);
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: red;
+}
+.img-battle {
+    width: 430px;
+    height: 248px;
+}
+.img-buynow {
+    width: 200px;
+    height: 200px;
+}
+.img-buynow1 {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+.imgcenter {
+    text-align: center;
+}
+.imgleft {
+    text-align: left;
+}
+.imgright {
+    text-align: right;
+}
+.textxl {
+    font-size: x-large;
+}
+.textm {
+    font-size: medium;
+}
+.textleft {
+    text-align: left;
+}
+.floatright {
+    text-align: right;
+}
+.instock {
+    text-emphasis-color: olivedrab;
+}
+.img-games {
+    width: 1500px;
+    height: 140px;
+}
+.textlarge {
+    font-size: large;
+}
+.imgcr {
+    float: right;
+    padding-right: 130px;
+}
+.container1 {
+    width: 99%;
+    height: 1500px;
+	position: relative;
+    border: 5px solid rgb(0, 0, 0);
+    float: left;
+    padding: 0mm; 
+}
+.banner3 {
+    width: 100%;
+    height: 290px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.img-ps5disc{
+    width: 220px;
+    height: 180px;
+    padding-top: 40px;
+}
+.leftbox {
+    float: left;
+    width: 300px;
+    height: 915px;
+    background-color: white;
+    border: 3px solid black;
+    text-align: center;
+}
+.rightbox {
+    float: right;
+    width: 300px;
+    height: 915px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid black;
+    text-align: center;
+}
+.contentps5disc {
+    background-color: rgb(255, 255, 255);
+    width: 634.5px;
+    height: 915px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 4px;
+    font-size: medium;
+    float: right;
+    border-top: 3px solid black;
+}
+.contentps5disc2 {
+    background-color: rgb(255, 255, 255);
+    width: 635px;
+    height: 915px;
+    float: left;
+    padding-top: 4px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: medium;
+    border-top: 3px solid black;
+    border-right: 2px solid black;
+}
+.footerps5disc {
+    background-color: rgb(255, 255, 255);
+    width: 1884px;
+    height: 165px;
+    text-align: left;
+    float: left;
+    border-top: 3px solid black;
+}
+.textcenter {
+    text-align: center;
+}
+.img-gpu {
+    width: 240px;
+    height: 166.875px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.imgright {
+    width: 240px;
+    height: 166.875px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.img-buy {
+    width: 251px;
+    height: 110.5px; 
+}
+.img-amazon {
+    width: 251px;
+    height: 110.5px; 
+}
+.img-argos {
+    width: 251px;
+    height: 110.5px; 
+}
+.img-gamelogo {
+    width: 251px;
+    height: 110.5px; 
+}
+.img-smyths {
+    width: 251px;
+    height: 110.5px; 
+}
+.img-currys {
+    width: 251px;
+    height: 110.5px;
+}
+.img-very {
+    width: 251px;
+    height: 110.5px;
+}
